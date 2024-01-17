@@ -3,7 +3,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
-import Navb from './NavBar';
+import Navb from './NavBar.js';
 
 function Certificados() {
     return (

@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/esm/Container';
 import {Link} from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
-import Navb from './NavBar';
+import Navb from './NavBar.js';
 import covid from './assets/imgs/casos todos anos.jpeg'; 
 import trunfo from './assets/imgs/supertrunfo.png';
 import todo from './assets/imgs/to_do_list.png';
