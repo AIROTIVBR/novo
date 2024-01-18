@@ -13,10 +13,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
 
 
-
-class Sobre extends React.Component {
-    
-    render() {
+ function Sobre () {
     return(
         <>
             <Navb/>
@@ -139,7 +136,7 @@ class Sobre extends React.Component {
         </>
     );
 };
-}
+
 export default Sobre;
 
 

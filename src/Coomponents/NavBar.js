@@ -1,4 +1,5 @@
 import React from 'react'; 
+import {Link} from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -7,9 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
 
 
-class Navb extends React.Component {
-    
-  render() {
+function Navb () {
   return (
     <Navbar expand="lg" className="nav-bar">
       <Container>
@@ -25,21 +24,20 @@ class Navb extends React.Component {
         <Navbar.Toggle aria-controls="basic-navbar-nav" className='tog'/>
         <Navbar.Collapse id="basic-navbar-nav" className='drop'>
           <Nav className="ms-auto tog">
-            <Nav.Link href="/" className='nav-link'>
-                Sobre
+            <Nav.Link >
+                <Link to="/" className='nav-link'>Sobre</Link>
             </Nav.Link>
-            <Nav.Link href='/Projetos' className='nav-link'>
-               Projetos
+            <Nav.Link >
+              <Link to="/Projetos" className='nav-link'>Projetos</Link>
             </Nav.Link>
-            <Nav.Link href ="/Certificados" className='nav-link' disabled>
-                Certificados
+            <Nav.Link  disabled>
+              <Link to="/Certificados" className='nav-link'>Certificados</Link>
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
         </Container>
     </Navbar>
   );
-}
 }
 
 export default Navb;

@@ -20,9 +20,7 @@ import sizes from './assets/imgs/conversor_de_medidas.png';
 import san from './assets/imgs/login,jgh.png';
 
 
-class Projetos extends React.Component {
-    
-  render() {
+function Projetos () {
   return (
     <>
     <Navb />
@@ -176,7 +174,6 @@ class Projetos extends React.Component {
     </Container>  
     </>
   );
-}
 }
 
 export default Projetos;

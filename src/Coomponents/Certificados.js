@@ -1,14 +1,12 @@
 import Card from 'react-bootstrap/Card';
 import React from 'react';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col';
+// import Row from 'react-bootstrap/Row';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
 import Navb from './NavBar.js';
 
-class Certificados extends React.Component {
-    
-  render() {
+function Certificados () {
     return (
       <>
     <Navb />
@@ -48,6 +46,5 @@ class Certificados extends React.Component {
     </>
     );
   }
-}
 
 export default Certificados;
