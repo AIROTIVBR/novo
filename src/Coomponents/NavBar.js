@@ -1,3 +1,4 @@
+import React from 'react'; 
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -6,7 +7,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './assets/style/style.css';
 
 
-function Navb() {
+class Navb extends React.Component {
+    
+  render() {
   return (
     <Navbar expand="lg" className="nav-bar">
       <Container>
@@ -36,6 +39,7 @@ function Navb() {
         </Container>
     </Navbar>
   );
+}
 }
 
 export default Navb;

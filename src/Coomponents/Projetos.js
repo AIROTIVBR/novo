@@ -1,3 +1,4 @@
+import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
@@ -19,7 +20,9 @@ import sizes from './assets/imgs/conversor_de_medidas.png';
 import san from './assets/imgs/login,jgh.png';
 
 
-function Projetos() {
+class Projetos extends React.Component {
+    
+  render() {
   return (
     <>
     <Navb />
@@ -173,6 +176,7 @@ function Projetos() {
     </Container>  
     </>
   );
+}
 }
 
 export default Projetos;

@@ -5,7 +5,9 @@ import Sobre from "./Coomponents/Sobre.js";
 import Projetos from "./Coomponents/Projetos.js";
 import Certificados from "./Coomponents/Certificados.js";
 
-function App() {
+class App extends React.Component {
+    
+  render() {
   return (
    <div className="App">
     <Routes>
@@ -16,5 +18,5 @@ function App() {
     </div>
   );
 }
-
+}
 export default App;

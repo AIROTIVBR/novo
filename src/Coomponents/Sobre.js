@@ -14,7 +14,9 @@ import './assets/style/style.css';
 
 
 
-function Sobre() {
+class Sobre extends React.Component {
+    
+    render() {
     return(
         <>
             <Navb/>
@@ -137,7 +139,7 @@ function Sobre() {
         </>
     );
 };
-
+}
 export default Sobre;
 
 
