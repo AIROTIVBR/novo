@@ -115,7 +115,7 @@ import './assets/style/style.css';
                     <h2 className="tituloskills">Hard skills</h2>
                     <div className="espc">
                     <p className="minitil">Meus pontos fortes são:</p>
-                    <p className="skills">Python(Pandas, Flask, Numpy, plotly, dash). Escrita de casos e cenários de teste e a realização de testes manuais 
+                    <p className="skills">Python(Pandas, Flask, Numpy, plotly, dash). Escrita de casos e cenários de teste, assim como o planejamento e a realização de testes manuais 
                     (unitário, black-box, regressão, funcionais). Tenho familiaridade com o Git e com as metodologias ágeis Scrum e Kanban.</p>
                     <br></br>
                     <p className="minitil">Conheço e me dou bem com:</p>
