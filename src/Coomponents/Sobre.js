@@ -41,7 +41,7 @@ import './assets/style/style.css';
                     <h3 className="titulo">Sobre mim</h3>
                     <p className="text">Tenho 19 anos, cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Unifavip Wyden. 
                     Sou estudante dedicada com pensamento crítico, buscando oportunidades na área de T.I. Quero combinar aprendizado com experiências práticas, 
-                    especialmente em ciência de dados e engenharia de software. Meu objetivo é contribuir para projetos significativos, aplicando conhecimentos e 
+                    especialmente em ciência de dados e engenharia de software, como analista de qualidade. Meu objetivo é contribuir para projetos significativos, aplicando conhecimentos e 
                     habilidades enquanto continuo minha jornada de aprendizado e crescimento profissional.</p>
                     <Link to="https://linktr.ee/vitoriamorim" target="blank" rel="noopener noreferrer">
                             <button className="button">
