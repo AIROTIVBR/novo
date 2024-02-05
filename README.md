@@ -16,6 +16,7 @@ Um dos meus objetivos era criar uma logo, minimalista, onde eu pudesse brincar c
 
 ![Logo](https://github.com/AIROTIVBR/novo/assets/101279006/7583ee66-1d52-4e1e-937e-4dca8c40e61c)
 
+Neste Link vc pode acessar o Design que fiz no figma para a página: https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1
 
 ### Desenvolvimento do conteúdo 
 
