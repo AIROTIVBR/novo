@@ -16,13 +16,24 @@ Um dos meus objetivos era criar uma logo, minimalista, onde eu pudesse brincar c
 
 ![Logo](https://github.com/AIROTIVBR/novo/assets/101279006/7583ee66-1d52-4e1e-937e-4dca8c40e61c)
 
-Neste Link vc pode acessar o Design que fiz no figma para a página: https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1
+Neste Link vc pode acessar o protótipo que fiz no figma: https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1
 
 ### Desenvolvimento do conteúdo 
 
-Pesquisei bastante sobre como ser clara e objetiva com meus conteúdos principalmente para atrair atenção e não ser apenas um monte de texto que ninguém quer ler. Uma coisa que me incomodava muito e eu me sentia presa a essa forma era a "lista de skills", é um clássico de currículos e portfolios e eu até então não tinha achado nada para substituir de forma tão clara e objetiva quanto
+Pesquisei bastante sobre como ser clara e objetiva com meus conteúdos principalmente para atrair atenção e não ser apenas um monte de texto que ninguém quer ler. Fiz um texto base e fui refinando várias vezes ao longo do desenvolvimento, diminuia o texto, adicionava coisa nova, mudava a ordem, enfim, diversas alterações até chegar num ponto onde para mim estava objetivo e ainda assim completo o bastante para passar a ideia certa.
+
+Uma coisa que me incomodava muito e eu me sentia presa a essa forma era a "lista de skills", é um clássico de currículos e portfolios e eu até então não tinha achado nada para substituir de forma tão clara e objetiva quanto, então a partir de um tweet achei uma alternativa que eu achei legal e apliquei para diversificar um pouco a forma como o conteúdo é apresentada, não quero que meu portfolio fique parecendo um currículo web, mesmo que seja.🥴
+
+![image](https://github.com/AIROTIVBR/novo/assets/101279006/8f3ff6b1-5b7a-469f-8fcc-9166c8f41979)
+<br></br>
+Aqui está o link do tweet que me serviu de inspiração para esta seção: https://x.com/lixeletto/status/1744881776281964710?s=20
+
 ## Desenvolvimento
 ### Aprendizados
+
+Com certeza meus maiores aprendizados foram aprender o básico de react, bootstrap e figma. Para mim a parte mais intrigante foi colocar as rotas certas e montar a estrutura da página utilizando "Row" e "Col", me dei um tempinho rearranjando a página várias vezes para descobrir o formato que mais me agradava.
+
+Uma coisa bem básica que só aprendi durante esse projeto, foi sobre como funcionam Media Queries no CSS, assim percebi quão incompleto as matérias da faculdade são apresentadas, é algo bem simples, muito útil e que mesmo assim nem foi abordado em uma cadeira voltada para a introdução ao front-end.
 ### Dificuldades
 
 Minha maior dificuldade do projeto na verdade foi colocar ele no Github pages de forma que o usuário conseguisse fazer a navegação entre as páginas. Isso se deu porque no ambiente local usando apenas o "Router" do react-router-dom tudo funciona perfeitamente, mas no Github Pages não... então tive que mudar para Hashrouter, que não é o recomendado pelo react-router-dom, mas é o único que funcionou. 😅 Por mais que não seja complicado e tenha diversas formas de achar conteúdo sobre isso, algumas configurações acabavam dando conflito e decidi refazer o repositório , até por isso o repositório ficou com esse nome antiormente estava como "Portfolio". 
@@ -36,6 +47,12 @@ https://www.freecodecamp.org/portuguese/news/como-fazer-o-deploy-de-uma-aplicaca
 https://react-bootstrap.netlify.app/docs/getting-started/introduction/ --> Por onde me guiei para montar a página e deixar ela o mais responsiva possível
 <br></br>
 https://reactrouter.com/en/main/router-components/hash-router  --> Para informações sobre o react-router-dom
+<br></br>
+https://youtu.be/HZuk6Wkx_Eg?si=kf8eoNnQM3s0YsCO --> Tutorial bem completo para o Figma, me ajudou muito a entender
 
 ## Conclusão
-
+Aproveitar para agradecer á alguns amigos que foram dando pitacos e dicas de como melhorar durante o desenvolvimento, provavelmente estaria ainda desenvolvendo se não fosse por essa ajuda. Agradeço também por ter tirado um tempinho e dado uma atenção é esse projeto. 
+<br></br>
+De forma geral estou contente com o resultado, mas definitivamente tem muito para melhorar e vou continuar melhorando aos poucos e incrementando, no momento estou aprimorando os projetos que possuo, aplicando justamente todos meus aprendizados.
+<br></br>
+Estou aberta para qualquer feedback que tenha e para me contatar só mandar um email para: vitamorim4002@gmail.com 
