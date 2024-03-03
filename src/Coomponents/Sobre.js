@@ -39,10 +39,10 @@ import './assets/style/style.css';
                 </Col>
                 <Col xs lg="6" className="sobre">
                     <h3 className="titulo">Sobre mim</h3>
-                    <p className="text">Tenho 19 anos, cursando o quinto semestre de Análise e Desenvolvimento de Sistemas na Unifavip Wyden. 
-                    Sou estudante dedicada com pensamento crítico, buscando oportunidades na área de T.I. Quero combinar aprendizado com experiências práticas, 
-                    especialmente em ciência de dados e engenharia de software, como analista de qualidade. Meu objetivo é contribuir para projetos significativos, aplicando conhecimentos e 
-                    habilidades enquanto continuo minha jornada de aprendizado e crescimento profissional.</p>
+                    <p className="text">Estou em busca de ascensão profissional no setor de QA (qualidade de software/quality assurance).Tenho como objetivo desenvolver minha 
+                    carreira, atuando em projetos de impacto procurando crescer e aprender em um ambiente dinâmico.Me identifico com a área principalmente por agir em busca do 
+                    melhor resultado para atender as necessidades do usuário e lidar com todo o processo de desenvolvimento do produto.De forma geral tenho uma abordagem obejetiva
+                    e proativa com enfoque na resolução de problemas. </p>
                     <Link to="https://linktr.ee/vitoriamorim" target="blank" rel="noopener noreferrer">
                             <button className="button">
                                 <span className="button-content">Linktree</span>
@@ -103,11 +103,11 @@ import './assets/style/style.css';
                     <ul className="skill">
                         <li><p className="skills">Boa relação interpessoal</p></li>
                         <li><p className="skills">Pensamento analítico</p></li>
-                        <li><p className="skills">Sempre inovando</p></li>
+                        <li><p className="skills">Colaboração</p></li>
                         <li><p className="skills">Proatividade</p></li>
                         <li><p className="skills">Comunicação clara e objetiva</p></li>
-                        <li><p className="skills">Criticidade</p></li>
-                        <li><p className="skills">Sempre aprendendo</p></li>
+                        <li><p className="skills">Atenção ao detalhe</p></li>
+                        <li><p className="skills">Em busca de melhoria contínua</p></li>
                         <li><p className="skills">Dedicação</p></li>
                     </ul>
                 </Col>
@@ -115,8 +115,8 @@ import './assets/style/style.css';
                     <h2 className="tituloskills">Hard skills</h2>
                     <div className="espc">
                     <p className="minitil">Meus pontos fortes são:</p>
-                    <p className="skills">Python(Pandas, Flask, Numpy, plotly, dash). Escrita de casos e cenários de teste, assim como o planejamento e a realização de testes manuais 
-                    (unitário, black-box, regressão, funcionais). Tenho familiaridade com o Git e com as metodologias ágeis Scrum e Kanban.</p>
+                    <p className="skills">Planejamento de testes, documentação e report de bugs, criação de cenários e casos de teste, testes automatizados e execução de testes
+                     manuais (unitário, black-box, regressão, funcionais).Tenho familiaridade com o Git, Selenium Webdriver e com as metodologias ágeis Scrum e Kanban.</p>
                     <br></br>
                     <p className="minitil">Conheço e me dou bem com:</p>
                     <p className="skills">HTML, CSS, React e Boostrap, Bancos de dados relacionais(MySQL) e 

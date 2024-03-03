@@ -70,8 +70,6 @@
       
   .nav-link {
     color: #2A1C44;
-    margin: 10px;
-    margin-top: 14px;
     font-size: 15px;
     font-weight: 500;
   }
@@ -88,7 +86,7 @@
   }
 
   .sobre{
-    padding: 6em;
+    padding: 6em 7em;
   }
 
   @media screen and (max-width:731px) {

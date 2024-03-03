@@ -30,9 +30,9 @@ function Navb () {
             <Nav.Link >
               <Link to="/Projetos" className='nav-link'>Projetos</Link>
             </Nav.Link>
-            <Nav.Link  disabled>
+            {/* <Nav.Link  disabled>
               <Link to="/Certificados" className='nav-link'>Certificados</Link>
-            </Nav.Link>
+            </Nav.Link> */}
           </Nav>
         </Navbar.Collapse>
         </Container>
