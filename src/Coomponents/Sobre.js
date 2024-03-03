@@ -78,7 +78,7 @@ import './assets/style/style.css';
                     <p className="text-exp">
                         Estou atuando como analista de qualidade em um projeto voluntário para a Secretaria de políticas para mulheres de Caruaru, 
                         nosso objetivo é desenvolver do zero uma aplicação web para digitalização de processos da secretaria aderindo a metodologia ágil do Scrum.
-                        Meu trabalho envolve a criação de casos e cenários de teste, o planejamento e a realização de testes manuais unitários, funcionais e de regressão, além de ter auxiliado os Product Owners responsáveis
+                        Meu trabalho envolve a escrita de casos e cenários de teste, o planejamento e a realização de testes manuais unitários, funcionais, de layout e de regressão, além de ter auxiliado os Product Owners responsáveis
                         na análise de requisitos e no planejamento de sprints, utilizamos as plataformas do trello e também do jira. Estou nesse cargo desde Abril de 2023 e sigo atualmente.
                     </p>
                 </Col>
