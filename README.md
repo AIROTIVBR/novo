@@ -9,13 +9,13 @@
 
 Meu Maior obejtivo para o Design da página era que fosse responsiva para mobile e desktop principalmente, foi algo que acabou consumindo muito mais tempo do que eu planejava para terminar o projeto, pois tive que aprender como juntar o react e o bootstrap e como estava fazendo tudo pela documentação acabei demorando para ficar sabendo sobre o react-bootstrap.😓
 <br></br>
-Iniciei decidindo a paleta de cores que iria utilizar, procurei por cores complementares e que também fossem contrastantes o suficiente para prender a atenção mas também me representasse de forma sutil. Para isso utilizei o site https://pigment.shapefactory.co/ (Port Gore / Careys Pink)
+Iniciei decidindo a paleta de cores que iria utilizar, procurei por cores complementares e que também fossem contrastantes o suficiente para prender a atenção mas também me representasse de forma sutil. Para isso utilizei o [Pigment](https://pigment.shapefactory.co/) (Port Gore / Careys Pink)
 
 Um dos meus objetivos era criar uma logo, minimalista, onde eu pudesse brincar com as letras formando algum desenho e consegui! Formei uma ampulheta com minhas iniciais V e A, também utilizando a paleta que achei. Esse foi o resultado:
 
 ![Logo](https://github.com/AIROTIVBR/novo/assets/101279006/54ee2395-2ca3-454b-bc07-db59db97da64)
 
-Neste Link vc pode acessar o protótipo que fiz no figma: https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1
+Também fiz um [protótipo](https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1) no Figma 
 
 ### Desenvolvimento do conteúdo 
 
