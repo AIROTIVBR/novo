@@ -1,8 +1,7 @@
 # [Portfolio](https://airotivbr.github.io/novo/)
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## Planejamento
 
@@ -14,7 +13,7 @@ Iniciei decidindo a paleta de cores que iria utilizar, procurei por cores comple
 
 Um dos meus objetivos era criar uma logo, minimalista, onde eu pudesse brincar com as letras formando algum desenho e consegui! Formei uma ampulheta com minhas iniciais V e A, também utilizando a paleta que achei. Esse foi o resultado:
 
-![Logo](https://github.com/AIROTIVBR/novo/assets/101279006/7583ee66-1d52-4e1e-937e-4dca8c40e61c)
+![Logo](https://github.com/AIROTIVBR/novo/assets/101279006/54ee2395-2ca3-454b-bc07-db59db97da64)
 
 Neste Link vc pode acessar o protótipo que fiz no figma: https://www.figma.com/file/iCmlPFpUYTtqSsHtBvkX5r/Portf%C3%B3lio?type=design&mode=design&t=kpPfrh7hzTDttGzh-1
 
@@ -24,7 +23,8 @@ Pesquisei bastante sobre como ser clara e objetiva com meus conteúdos principal
 
 Uma coisa que me incomodava muito e eu me sentia presa a essa forma era a "lista de skills", é um clássico de currículos e portfolios e eu até então não tinha achado nada para substituir de forma tão clara e objetiva quanto, então a partir de um tweet achei uma alternativa que eu achei legal e apliquei para diversificar um pouco a forma como o conteúdo é apresentada, não quero que meu portfolio fique parecendo um currículo web, mesmo que seja.🥴
 
-![image](https://github.com/AIROTIVBR/novo/assets/101279006/8f3ff6b1-5b7a-469f-8fcc-9166c8f41979)
+![image](https://github.com/AIROTIVBR/novo/assets/101279006/348ea142-466b-4e61-99f0-8e1aa608222e)
+
 <br></br>
 Aqui está o link do tweet que me serviu de inspiração para esta seção: https://x.com/lixeletto/status/1744881776281964710?s=20
 
@@ -37,8 +37,7 @@ Uma coisa bem básica que só aprendi durante esse projeto, foi sobre como funci
 ### Dificuldades
 
 Minha maior dificuldade do projeto na verdade foi colocar ele no Github pages de forma que o usuário conseguisse fazer a navegação entre as páginas. Isso se deu porque no ambiente local usando apenas o "Router" do react-router-dom tudo funciona perfeitamente, mas no Github Pages não... então tive que mudar para Hashrouter, que não é o recomendado pelo react-router-dom, mas é o único que funcionou. 😅 Por mais que não seja complicado e tenha diversas formas de achar conteúdo sobre isso, algumas configurações acabavam dando conflito e decidi refazer o repositório , até por isso o repositório ficou com esse nome antiormente estava como "Portfolio". 
-![image](https://github.com/AIROTIVBR/novo/assets/101279006/1ad28d7b-c93c-4244-88e1-5d2e9967394d)
-<br></br>
+
 Outros momentos de frustação foi conseguir entender algumas tags do react-boostrap, mas creio que isso faz parte do aprendizado de alguém que não atua em Front-end se aventurando com tecnologias novas.
 
 ### Fontes da sabedoria🧐
